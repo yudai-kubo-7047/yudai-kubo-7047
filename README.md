@@ -10,14 +10,17 @@ My goal is to help businesses save time by automating repetitive tasks with clea
 
 
 🧰 Tech Stack
-画像を表示
-画像を表示
-画像を表示
-Libraries I work with:
-pathlib shutil os csv — and actively learning pandas requests BeautifulSoup
+- **Python** | **Git** | **GitHub**
 
-📂 Projects
-ProjectDescriptionTechauto-file-sorterAutomatically sorts files into subfolders by extensionPython, pathlib, shutilauto-file-sorter-with-loggingSame as above, with full activity logging to log.txtPython, pathlib, shutil, file I/O
+Libraries I work with:
+`pathlib` `shutil` `os` `csv` — and actively learning `pandas` `requests` `BeautifulSoup`
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [auto-file-sorter](https://github.com/yudai-kubo-7047/auto-file-sorter) | Automatically sorts files into subfolders by extension | Python, pathlib, shutil |
+| [auto-file-sorter-with-logging](https://github.com/yudai-kubo-7047/auto_file_sorter_with_logging) | Same as above, with full activity logging to log.txt | Python, pathlib, shutil, file I/O |
 
 🌱 Currently Learning
 
@@ -36,17 +39,3 @@ GitHub: @yudai-kubo-7047
 
 
 "Start small, ship often, improve always."
-<!--
-**yudai-kubo-7047/yudai-kubo-7047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
