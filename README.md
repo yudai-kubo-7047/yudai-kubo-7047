@@ -4,9 +4,9 @@ My goal is to help businesses save time by automating repetitive tasks with clea
 
 ## 🛠️ What I Can Help You With
 
-📁 File & Task Automation — automatically organize, rename, copy, or process files
-🌐 Web Scraping — extract data from websites using Python
-📊 Data Cleaning & CSV Processing — clean, sort, and restructure messy data files
+- 📁 File & Task Automation — automatically organize, rename, copy, or process files
+- 🌐 Web Scraping — extract data from websites using Python
+- 📊 Data Cleaning & CSV Processing — clean, sort, and restructure messy data files
 
 
 🧰 Tech Stack
@@ -24,9 +24,9 @@ Libraries I work with:
 
 ## 🌱 Currently Learning
 
-pandas for data processing
-requests + BeautifulSoup for web scraping
-Building a portfolio for freelance work on Upwork
+- pandas for data processing
+- requests + BeautifulSoup for web scraping
+- Building a portfolio for freelance work on Upwork
 
 
 💼 Open to Freelance Work
