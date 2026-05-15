@@ -2,7 +2,7 @@ Hi there, I'm Yudai 👋
 I'm a working professional based in Japan, currently learning Python and building automation tools as a freelancer.
 My goal is to help businesses save time by automating repetitive tasks with clean, practical Python scripts.
 
-🛠️ What I Can Help You With
+## 🛠️ What I Can Help You With
 
 📁 File & Task Automation — automatically organize, rename, copy, or process files
 🌐 Web Scraping — extract data from websites using Python
@@ -22,7 +22,7 @@ Libraries I work with:
 | [auto-file-sorter](https://github.com/yudai-kubo-7047/auto-file-sorter) | Automatically sorts files into subfolders by extension | Python, pathlib, shutil |
 | [auto-file-sorter-with-logging](https://github.com/yudai-kubo-7047/auto_file_sorter_with_logging) | Same as above, with full activity logging to log.txt | Python, pathlib, shutil, file I/O |
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 pandas for data processing
 requests + BeautifulSoup for web scraping
